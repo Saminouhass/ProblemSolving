@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
-    cout << "fdsg";
+    double n = 14 / 12;
+    cout << n;
+
     return 0;
 }
